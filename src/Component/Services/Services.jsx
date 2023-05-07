@@ -2,9 +2,9 @@ import React from 'react'
 import './Services.css'
 import HeartEmoji from "../../img/heartemoji.png"
 import Glasses from "../../img/glasses.png"
-import Humble from "../../img/saurabh dubey (2).pdf"
+import Humble from "../../img/humble.png"
 import Card from '../Cards/Card'
-import resume from "../../img/humble.png"
+import resume from "../../img/saurabh dubey (2).pdf"
 
 //import HeartEmoji from "../../img/heartemoji.png"
 import { themeContext } from '../../Context'
