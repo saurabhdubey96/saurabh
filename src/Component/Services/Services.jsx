@@ -2,7 +2,7 @@ import React from 'react'
 import './Services.css'
 import HeartEmoji from "../../img/heartemoji.png"
 import Glasses from "../../img/glasses.png"
-import Humble from "../../img/humble.png"
+import Humble from "../../img/saurabh dubey (2).pdf"
 import Card from '../Cards/Card'
 import resume from "../../img/humble.png"
 
