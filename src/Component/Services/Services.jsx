@@ -4,7 +4,7 @@ import HeartEmoji from "../../img/heartemoji.png"
 import Glasses from "../../img/glasses.png"
 import Humble from "../../img/humble.png"
 import Card from '../Cards/Card'
-import resume from "../../img/saurabh dubey (2).pdf"
+import resumes from "../../img/saurabh dubey (2).pdf"
 
 //import HeartEmoji from "../../img/heartemoji.png"
 import { themeContext } from '../../Context'
@@ -29,7 +29,7 @@ const Services=()=>{
                     <br/>
                     so dont worry about your Work Here We are?
                 </span>
-                <a href={resume} download>
+                <a href={resumes} download>
                 <button className='button s-button'>Download CV</button>
                 </a>
                 <div className='blur s-blur1' style={{background:'#ABF1FF94'}}></div>
